@@ -20,7 +20,7 @@ The main objectives of this project are:
 
 This was an assessment by a company I applied for a job and they wanted me to use Excel to solve this problem, which I did but also wanted to use PowerBI as well.
 
-### Approach to solve the problem
+### Approach to solving the problem
 
 The excel file contains 6 sheets with data from January to June.
 
