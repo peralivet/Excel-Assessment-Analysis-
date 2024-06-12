@@ -19,3 +19,12 @@ The main objectives of this project are:
   - Headcount by ethnicity split
 
 This was an assessment by a company I applied for a job and they wanted me to use Excel to solve this problem, which I did but also wanted to use PowerBI as well.
+
+### Approach to solve the problem
+
+The excel file contains 6 sheets with data from January to June.
+
+#### Steps
+1. Solving this problem, the first thing I did was to create a new column in each of the sheets for the month name 
+2. After creating the columns, I combined the data from January to June in a single sheet.
+3. After combining, I started using the combined sheets with pivot table and also some formulas to solve the task.
